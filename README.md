@@ -1,1 +1,38 @@
-# Track-HunterV1
+# TrackerHunter
+Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
+
+New update :
+```Version 1.0```
+
+### Instalation on Linux (deb)
+```
+sudo apt-get install git
+sudo apt-get install python3
+```
+
+### Instalation on Termux
+```
+pkg install git
+pkg install python3
+```
+
+### Usage Tool
+```
+git clone https://github.com/RyzziCyberv1/Track-HunterV1.git
+cd Track-HunterV1
+pip3 install -r requirements.txt
+python3 TrackerHT.py
+```
+
+Display on the menu ```IP Tracker```
+
+on the IP Track menu, you can combo with the seeker tool to get the target IP
+<details>
+<summary>:zap: Install Seeker :</summary>
+- <strong><a href="https://github.com/thewhiteh4t/seeker">Get Seeker</a></strong>
+</details>
+
+<details>
+<summary>:zap: Author :</RyzziCyberv1>
+- <strong><a href="https://github.com/RyzziCyberV3">RyzziCyberV3</a></strong>
+</details>

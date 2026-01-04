@@ -18,8 +18,8 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/RyzziCyberv1/Track-HunterV1.git
-cd Track-HunterV1
+git clone https://github.com/RyzziCyberV3/TrackHunterV2.git
+cd TrackHunterV2
 pip3 install -r requirements.txt
 python3 TrackerHT.py
 ```
